@@ -23,14 +23,14 @@ def generate_image(api_key,image_description):
 st.image('ai_logo.png', width=100)
 
 # page title
-st.title('Image Generation Tool')
+st.title('AI Image Generation Tool')
 # Add a text beneath the title
 st.subheader('Created with ♥️ by Abdur Rahman, IIT Delhi')
-st.write('For a useless🤡')
+st.write('Based on DALL-E by OpenAI')
 
 # text input box for image recognition
 api_key = st.text_input('Your OpenAI API Auth Key')
-img_description = st.text_input('Image Desription')
+img_description = st.text_input('Enter Image Desription')
 
 if st.button('Generate Image'):
     
