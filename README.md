@@ -1,4 +1,5 @@
 # dall-e-image-generator
+Generate realistic images and art from merely a description in natural language
 
 ## Using this repo
 * Install the packages using ```pip install -r requirements.txt```
