@@ -6,4 +6,4 @@
 
 ## Deployment
 Check out the deployed webapp [here](https://dall-e-image-generator.onrender.com)
-* Get your OpenAI API Auth Key at https://beta.openai.com/account/api-keys
+* Get your OpenAI API Auth Key at [OpenAI website](https://beta.openai.com/account/api-keys)
