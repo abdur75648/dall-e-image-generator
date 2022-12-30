@@ -26,7 +26,7 @@ st.image('ai_logo.png', width=100)
 st.title('Image Generation Tool')
 # Add a text beneath the title
 st.subheader('Created with ♥️ by Abdur Rahman, IIT Delhi')
-st.write('Based on DALL-E by OpenAI')
+st.write('For a useless🤡')
 
 # text input box for image recognition
 api_key = st.text_input('Your OpenAI API Auth Key')
